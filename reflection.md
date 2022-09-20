@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I initially really struggled with this assignment. I think I was overthinking it too much and doubting my abilities. I did a decent amount of object oriented programming in the intro course I took at another school over the summer. My previous experience definitely both helped and hurt me. I spent too long thinking about all the things I could potentially do to make the code really nice and pretty which slowed me down a lot. Once I reminded myself of the tools I already have, I was able to complete the assignment relatively quickly. I was initially really tripped up by the use of a dictionary to store information about the computer. But then i realized a dictionary is just an object and I could replace the use of a dictionary with object instantiation. Then I thought to myself, "Duh, Grace! That's the whole point of this assignment!" Anyway, in the future I would spend less time convincing myself of what I don't know and more time reminding myself of what I DO know.

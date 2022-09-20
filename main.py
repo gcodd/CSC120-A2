@@ -1,3 +1,10 @@
+"""
+Driver class for A2
+Author: Grace Codd
+Date: 9/20/2022
+"""
+
+
 # Import a few useful containers from the typing module
 from calendar import c
 from typing import Dict, Union
